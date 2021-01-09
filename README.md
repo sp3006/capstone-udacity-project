@@ -46,3 +46,7 @@
     or equal to 65,000. This data comes from the US Census Bureau’s 2015 American Community Survey. This product uses the Census Bureau 
     Data API but is not endorsed or certified by the Census Bureau. The US City Demographics is the source of the STATE dimension in 
     the data model and grouped by State.
+
+# AWS Resource Provisioning using Terraform:
+
+The project resources has been provisioned using Terraform . YOu will find the terraform folder with dockerfile.
