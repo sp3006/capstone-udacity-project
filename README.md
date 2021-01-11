@@ -1,5 +1,5 @@
 # capstone-udacity-project
-    Repository for Udacity provided capstone project
+    Repository for Udacity provided capstone project. 
 
 # Udacity Provided Project
     In the Udacity provided project, you'll work with four datasets to complete the project. The main dataset will 
@@ -24,7 +24,7 @@
     U.S. City Demographic Data: This data comes from OpenSoft. You can read more about it here.
     Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from here.
     
-# World Temperature Data
+## World Temperature Data
     Data is from a newer compilation put together by the Berkeley Earth, which is affiliated with Lawrence Berkeley 
     National Laboratory. The Berkeley Earth Surface Temperature Study combines 1.6 billion temperature reports from 
     16 pre-existing archives. It is nicely packaged and allows for slicing into interesting subsets (for example by country). 
